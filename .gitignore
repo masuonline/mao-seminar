@@ -1,2 +1,5 @@
 .DS_Store
 Thumbs.db
+# .gitignoreの練習用に追加↓
+memo.txt
+memo.md
